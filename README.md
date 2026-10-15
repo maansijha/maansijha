@@ -1,6 +1,6 @@
 ## 
 
- 💫 About Me:
+## a b o u t 
 I'm mainly interested in :-<br>- Quantitative finance, algorithmic trading, and systems engineering<br>- C, Java, Python, and data structures & algorithms<br>- Trading strategy research, backtesting, and quantitative analysis<br>- Compiler design, database internals, and backend systems<br><br>I'm also interested in building efficient, low-level software and exploring the intersection of mathematics, markets, and computation
 
 
@@ -15,7 +15,7 @@ I'm mainly interested in :-<br>- Quantitative finance, algorithmic trading, and 
 ![](https://streak-stats.demolab.com/?user=maansijha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maansijha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### c o n t r i b u t i o n s
+# c o n t r i b u t i o n s
 ![](https://github-contributor-stats.vercel.app/api?username=maansijha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
