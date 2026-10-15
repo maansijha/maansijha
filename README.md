@@ -1,7 +1,7 @@
 ## 
 
 ## a b o u t 
-I'm mainly interested in :-<br>- Quantitative finance, algorithmic trading, and systems engineering<br>- C, Java, Python, and data structures & algorithms<br>- Trading strategy research, backtesting, and quantitative analysis<br>- Compiler design, database internals, and backend systems<br><br>I'm also interested in building efficient, low-level software and exploring the intersection of mathematics, markets, and computation
+I'm a beginner student dev who's mainly interested in :-<br>- Quantitative finance, algorithmic trading, and systems engineering<br>- C, Java, Python, and data structures & algorithms<br>- Trading strategy research, backtesting, and quantitative analysis<br>- Compiler design, database internals, and backend systems<br><br>I'm also interested in building efficient, low-level software and exploring the intersection of mathematics, markets, and computation
 
 
 ##  s o c i a l s
