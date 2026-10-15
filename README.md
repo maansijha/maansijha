@@ -15,11 +15,7 @@ I'm a beginner student dev who's mainly interested in :-<br>- Quantitative finan
 ![](https://streak-stats.demolab.com/?user=maansijha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maansijha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# c o n t r i b u t i o n s
-![](https://github-contributor-stats.vercel.app/api?username=maansijha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=maansijha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
