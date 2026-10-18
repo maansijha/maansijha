@@ -12,7 +12,7 @@ I'm a beginner student dev who's mainly interested in :-<br>- Quantitative finan
 ## s t a t s
 ![](https://github-readme-stats.shion.dev/api?username=maansijha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=maansijha&theme=dark&hide_border=false)<br/>
-username=maansijha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
